@@ -1,5 +1,5 @@
 # -GNOME-Repo
-GNOME linux rice
+Git clone https://github.com/lexp-hub/-GNOME-Repo.git
 
 Extensions GNOME:
 Blur my Shell
