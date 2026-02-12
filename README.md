@@ -19,7 +19,8 @@ Kitty
 Fastfetch
 CAVA
 
-Theme:
+Theme: 
+GreyStone
 Catppuccin (GTK + Shell)
-Beauty Solar
+
 
